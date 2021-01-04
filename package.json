@@ -3,9 +3,12 @@
   "version": "1.0.0",
   "description": "Plays chatsounds from the Garry's Mod chatsounds addon by Meta Construct in voice channels.",
   "repository": "https://github.com/Tenrys/dr-breerb",
-  "private": true,
   "main": "index.js",
   "author": "Tenrys",
+  "version": "1.0.0",
+  "engines": {
+    "node": "12.x"
+  },
   "license": "GPL-3.0-only",
   "scripts": {
     "start": "./start.sh"
